@@ -6,7 +6,8 @@
 **Dataset**: Base_Imoveis_RJ_tratada.csv (GitHub)  
 **Referências**: Este MVP (Produto Mínimo Viável) tomou como base, *insights* do https://drivendata.github.io/cookiecutter-data-science/
 e do template disponibilizado pelos professores.
-**O MVP de Machine Learing(ML) para Previsão de Preços de Imóveis no Rio de Janeiro está no arquivo: MVP_ML_Dataset_imoveis_v2.ipynb
+
+**O MVP de Machine Learing(ML) para Previsão de Preços de Imóveis no Rio de Janeiro está no arquivo: MVP_ML_Dataset_imoveis_v2.ipynb**
 
 Este projeto apresenta um MVP para a previsão de preços de imóveis na cidade do Rio de Janeiro, utilizando técnicas básicas de análise de dados, pré-processamento e um modelo simples de regressão linear. O objetivo é demonstrar um fluxo inicial para construir um preditor de preços com base em características dos imóveis como área, número de quartos, banheiros, vagas de garagem, IPTU e condomínio.
 
